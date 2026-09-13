@@ -27,44 +27,68 @@ Cybersecurity • Web Security • SEO & Growth • Software Development
 
 </div>
 
-👋 About Me
+## 👋 About Me
 
-I'm a BS Information Technology student focused on web security, vulnerability assessment, Python security tooling, SEO, and growth-focused web development.
+I'm a BS Information Technology student focused on **Web Security, Vulnerability Assessment, Python Security Tooling, and Technical SEO**.
 
-I enjoy turning real-world problems into practical tools, from detecting suspicious URLs and analyzing authentication logs to automating technical SEO audits.
+I like building practical tools that solve real problems, especially in cybersecurity and web technologies. My current work includes security automation, log analysis, phishing detection, and SEO tooling.
 
-Name: Muhammad Ahtisham Aslam
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Focus:
-  - Web Security
-  - Vulnerability Assessment
-  - Python Security Tooling
-  - SEO & Growth
-  - Web Development
+### 🔐 Security Focus
 
-Education:
-  Degree: BS Information Technology
-  University: University of Sahiwal
+<img src="https://skillicons.dev/icons?i=linux,py" />
 
-Training:
-  - Genease Academy
-  - Python Security Tooling
-  - SIEM Fundamentals
+**Web Security**  
+Vulnerability assessment, reconnaissance, OWASP concepts, and security testing.
 
-Certifications:
-  - Google: SEO & Digital Marketing
-  - Google: Google Ads
-  - IBM: Python for Data Science
+**Security Automation**  
+Python-based tools for log analysis, threat detection, and repetitive security tasks.
 
-Currently_Building:
-  - Mini-SIEM
-  - Phishing URL Detector
-  - SEO Audit Engine
+</td>
 
-Open_To:
-  - Full-time opportunities
-  - Freelance projects
-  - Remote collaboration
+<td width="50%" valign="top">
+
+### 💻 Development
+
+<img src="https://skillicons.dev/icons?i=js,html,css,sql,git" />
+
+**Web Development**  
+Building practical and responsive web applications.
+
+**Technical SEO**  
+Website auditing, on-page optimization, technical SEO, and data-driven improvements.
+
+</td>
+</tr>
+</table>
+
+### 🎯 Currently Building
+
+| Project | Focus |
+|---|---|
+| 🛡️ Mini-SIEM | Authentication log analysis & suspicious activity detection |
+| 🎣 Phishing URL Detector | Malicious URL analysis & threat detection |
+| 🔍 SEO Audit Engine | Automated technical SEO auditing |
+
+### 🎓 Education & Training
+
+🎓 **BS Information Technology**  
+University of Sahiwal
+
+📚 **Training**
+- Genease Academy
+- Python Security Tooling
+- SIEM Fundamentals
+
+### 🤝 Open To
+
+💼 Full-time opportunities  
+🌐 Freelance projects  
+🤝 Remote collaboration  
+🛡️ Cybersecurity & Web Security projects
 
 🛡️ What I Work On
 
