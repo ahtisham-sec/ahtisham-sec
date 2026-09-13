@@ -563,7 +563,7 @@ alt="GitHub Streak"
 
 
 <img
-src="./github/workflows/snake.yml"
+src="./workflows/snake.yml"
 width="95%"
 alt="GitHub Contribution Snake"
 />
