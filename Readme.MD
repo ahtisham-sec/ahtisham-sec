@@ -219,19 +219,9 @@ More experiments, security utilities, automation scripts, and development work a
 
 </div>
 
-🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahtisham-sec&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub Trophies"/>
-
-</div>
 
 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahtisham-sec&bg_color=0D1117&color=FF7A00&line=FF7A00&point=FFFFFF&area=true&hide_border=true&custom_title=Ahtisham%27s%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 
 <br/><br/>
 
