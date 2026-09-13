@@ -1,205 +1,282 @@
 <div align="center">
-  <img src="./assets/github-banner.png" alt="Muhammad Ahtisham Aslam GitHub Banner" width="100%" />
+
+<img src="./assets/github-banner.png" alt="Muhammad Ahtisham Aslam GitHub Banner" width="100%" />
+
+<br/>
+<br/>
+
+# Muhammad Ahtisham Aslam
+
+### Cybersecurity Student · Web Security · Python · Technical SEO
+
+Building practical security tools, web-focused projects, and useful digital systems through hands-on learning.
+
+<br/>
+
+<a href="https://github.com/ahtisham-sec">
+<img src="https://img.shields.io/badge/GitHub-ahtisham--sec-0D1117?style=for-the-badge&logo=github&logoColor=FF7A00" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mirzaahtisham/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF7A00" alt="LinkedIn"/>
+</a>
+
 </div>
+
+---
+
+# 01 - About Me
+
+I'm a **BS Information Technology student** with a growing focus on **cybersecurity, web security, vulnerability assessment, Python security tooling, Linux, and technical SEO**.
+
+I learn primarily by building practical projects rather than only following theoretical material.
+
+My current work includes security-focused Python tools, authentication log analysis, phishing detection, web security testing, and technical SEO automation.
+
+I'm especially interested in understanding how websites, applications, systems, and security controls work together.
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### SECURITY
+
+Web Security  
+Vulnerability Assessment  
+OWASP Concepts  
+Security Testing
+
+</td>
+
+<td align="center" width="25%">
+
+### PYTHON
+
+Security Tooling  
+Automation  
+Log Analysis  
+Data Processing
+
+</td>
+
+<td align="center" width="25%">
+
+### LINUX & WEB
+
+Linux  
+HTML · CSS · JavaScript  
+SQL  
+Git & GitHub
+
+</td>
+
+<td align="center" width="25%">
+
+### SEO
+
+Technical SEO  
+Website Auditing  
+Keyword Research  
+On-Page Optimization
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 02 - Currently Building
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### Mini-SIEM
+
+A lightweight SIEM-style project for collecting authentication logs, analyzing activity, and identifying suspicious events.
+
+**Focus**
+
+`Python` `Linux` `Log Analysis`
+
+<br/>
+
+<a href="https://github.com/ahtisham-sec/mini-siem-auth-log-analyzer">
+View Repository →
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### Phishing URL Detector
+
+A Python-based project focused on analyzing URLs and identifying potentially suspicious links using security-oriented detection logic.
+
+**Focus**
+
+`Python` `URL Analysis` `Detection`
+
+<br/>
+
+<a href="https://github.com/ahtisham-sec/phishing-url-threat-detector">
+View Repository →
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### SEO Audit Engine
+
+An automated technical SEO auditing tool designed to identify common website optimization issues.
+
+**Focus**
+
+`Python` `SEO` `Automation`
+
+<br/>
+
+<a href="https://github.com/ahtisham-sec/seo-audit-engine">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 03 - Selected Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## Web Security Scanner
+
+A practical security testing project focused on identifying common web security issues and supporting security-oriented website analysis.
+
+`Python`
+
+<br/>
+
+<a href="https://github.com/ahtisham-sec/web-security-scanner">
+Open Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## SEO Content Optimizer
+
+A utility focused on analyzing on-page SEO signals and supporting content optimization workflows.
+
+`Python`
+
+<br/>
+
+<a href="https://github.com/ahtisham-sec/Seo-content-optimizer-">
+Open Project →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 04 - Experience
+
+## Dev Zone Services
+
+### SEO Intern
+
+**22 June 2026 - 27 August 2026**
+
+During my internship, I worked on practical SEO tasks including:
+
+`Search Engine Optimization` · `Keyword Research` · `On-Page Optimization`
+
+### Internship Completion
+
+<div align="center">
+
+<img
+src="./assets/credentials/internship-doc-file-A4-top_page-0001.jpg"
+alt="Dev Zone Services Internship Completion Letter"
+width="80%"
+/>
+
+<br/>
+
+**Internship Completion Letter**
+
+</div>
+
+---
+
+# 05 - Cybersecurity Job Simulations
+
+These simulations gave me practical exposure to different cybersecurity roles, security scenarios, analysis tasks, and incident-related workflows.
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## Mastercard
+
+### Cybersecurity Job Simulation
+
+Practical tasks included:
+
+- Phishing email simulation
+- Phishing simulation result interpretation
 
 <br/>
 
 <div align="center">
 
-# Muhammad Ahtisham Aslam
-
-### Cybersecurity Student · Web Security · Python · SEO
-
-Building practical security tools and useful digital systems through hands-on work.
-
-<br/>
-
-<a href="https://github.com/ahtisham-sec">
-  <img src="https://img.shields.io/badge/GitHub-ahtisham--sec-0D1117?style=for-the-badge&logo=github&logoColor=FF7A00" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/mirzaahtisham/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF7A00" alt="LinkedIn"/>
-</a>
+<img
+src="./assets/credentials/mastercard-cybersecurity-job-certification.png"
+alt="Mastercard Cybersecurity Job Simulation Certificate"
+width="95%"
+/>
 
 </div>
 
----
-
-## 01 - About
-
-I'm a **BS Information Technology student** focused on **web security, vulnerability assessment, Python security tooling, and technical SEO**.
-
-I prefer learning by building: small security tools, practical automation, log analysis utilities, phishing detection workflows, and web-focused projects.
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**SECURITY**
-
-Web Security<br/>
-Vulnerability Assessment<br/>
-OWASP Concepts
-
-</td>
-<td align="center" width="25%">
-
-**PYTHON**
-
-Security Tooling<br/>
-Automation<br/>
-Log Analysis
-
-</td>
-<td align="center" width="25%">
-
-**WEB**
-
-HTML · CSS · JS<br/>
-SQL · Git<br/>
-Web Development
-
-</td>
-<td align="center" width="25%">
-
-**SEO**
-
-Technical Audits<br/>
-On-page Analysis<br/>
-Optimization
-
-</td>
-</tr>
-</table>
-
----
-
-## 02 - Currently Building
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 01 · Mini-SIEM
-
-Lightweight SIEM-style project for authentication log analysis and suspicious activity detection.
-
-`Python` `Linux`
-
-<a href="https://github.com/ahtisham-sec/mini-siem-auth-log-analyzer">View repository -></a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 02 · Phishing URL Detector
-
-URL analysis project using security-focused heuristics and detection logic for potentially suspicious links.
-
-`Python`
-
-<a href="https://github.com/ahtisham-sec/phishing-url-threat-detector">View repository -></a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 03 · SEO Audit Engine
-
-Automated technical SEO auditing tool designed to surface common website optimization issues.
-
-`Python`
-
-<a href="https://github.com/ahtisham-sec/seo-audit-engine">View repository -></a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 03 - Selected Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Web Security Scanner
-
-A practical scanner focused on common web security issues and security-oriented testing.
-
-`Python`
-
-<a href="https://github.com/ahtisham-sec/web-security-scanner">Open project -></a>
-
 </td>
 
 <td width="50%" valign="top">
 
-### SEO Content Optimizer
+## AIG
 
-A utility focused on on-page SEO signals and content improvement workflows.
+### Shields Up: Cybersecurity Job Simulation
 
-`Python`
-
-<a href="https://github.com/ahtisham-sec/Seo-content-optimizer-">Open project -></a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 04 - Experience
-
-### Dev Zone Services - SEO Internship
-
-**22 June 2026 - 27 August 2026**
-
-Hands-on experience in:
-
-`Search Engine Optimization (SEO)` · `Keyword Research` · `On-Page Optimization`
-
-[View internship completion letter](./assets/credentials/internship-doc-file-A4-top_page-0001.jpg)
-
----
-
-## 05 - Job Simulations
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Mastercard
-
-**Cybersecurity Job Simulation**
-
-Completed practical tasks covering:
-
-- Phishing email simulation
-- Phishing simulation result interpretation
-
-[View certificate](./assets/credentials/mastercard-cybersecurity-job-certification.png)
-
-</td>
-
-<td width="50%" valign="top">
-
-### AIG
-
-**Shields Up: Cybersecurity Job Simulation**
-
-Completed practical tasks covering:
+Practical tasks included:
 
 - Responding to a zero-day vulnerability
 - Technical ransomware bypass task
 
-[View certificate](./assets/credentials/aig-cyber-job-certificate.png)
+<br/>
+
+<div align="center">
+
+<img
+src="./assets/credentials/aig-cyber-job-certificate.png"
+alt="AIG Cybersecurity Job Simulation Certificate"
+width="95%"
+/>
+
+</div>
 
 </td>
 
@@ -209,30 +286,50 @@ Completed practical tasks covering:
 
 <td width="50%" valign="top">
 
-### Deloitte
+## Deloitte
 
-**Cyber Job Simulation**
+### Cyber Job Simulation
 
-Completed a practical cybersecurity job simulation.
+Completed a practical cybersecurity job simulation covering real-world security-oriented tasks and scenarios.
 
-[View certificate](./assets/credentials/deloitte-cyber-job-simulation-certificate.png)
+<br/>
+
+<div align="center">
+
+<img
+src="./assets/credentials/deloitte-cyber-job-simulation-certificate.png"
+alt="Deloitte Cyber Job Simulation Certificate"
+width="95%"
+/>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Commonwealth Bank
+## Commonwealth Bank
 
-**Introduction to Cybersecurity Job Simulation**
+### Introduction to Cybersecurity Job Simulation
 
-Completed practical tasks in:
+Practical exposure to:
 
 - Data analysis
 - Incident response
 - Security awareness
 - Penetration testing
 
-[View certificate](./assets/credentials/commonwealth-cybersecurity-job-certificate.png)
+<br/>
+
+<div align="center">
+
+<img
+src="./assets/credentials/commonwealth-cybersecurity-job-certificate.png"
+alt="Commonwealth Bank Cybersecurity Job Simulation Certificate"
+width="95%"
+/>
+
+</div>
 
 </td>
 
@@ -242,35 +339,55 @@ Completed practical tasks in:
 
 <td width="50%" valign="top">
 
-### Marketing Explorer
+## Marketing Explorer
 
-**Marketing Explorer Job Simulation**
+### Marketing Explorer Job Simulation
 
-Completed practical tasks covering:
+Practical tasks covering:
 
-- Creative Strategist
-- Performance Analyst
-- Customer & Product Marketer
-- Digital Marketer
+- Creative Strategy
+- Performance Analysis
+- Customer & Product Marketing
+- Digital Marketing
 
-[View certificate](./assets/credentials/certification-of-completion-marketing-explorer-job-simulation.png)
+<br/>
+
+<div align="center">
+
+<img
+src="./assets/credentials/certification-of-completion-marketing-explorer-job-simulation.png"
+alt="Marketing Explorer Job Simulation Certificate"
+width="95%"
+/>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Branding & Design
+## Branding & Design
 
-**Branding & Design Job Simulation**
+### Branding & Design Job Simulation
 
-Completed practical tasks covering:
+Practical tasks covering:
 
-- Brand and Authenticity
-- Product Design and Craft
+- Brand & Authenticity
+- Product Design & Craft
 - Digital Marketing
 - Community Building
 
-[View certificate](./assets/credentials/branding-and-design-certificate.png)
+<br/>
+
+<div align="center">
+
+<img
+src="./assets/credentials/branding-and-design-certificate.png"
+alt="Branding and Design Job Simulation Certificate"
+width="95%"
+/>
+
+</div>
 
 </td>
 
@@ -279,99 +396,180 @@ Completed practical tasks covering:
 
 ---
 
-## 06 - Certifications & Courses
+# 06 - Certifications & Courses
 
-| Provider | Course / Certification | Year |
-|:---|:---|:---:|
-| **Google / Coursera** | Foundations of Cybersecurity | 2026 |
-| **Macquarie University / Coursera** | Cyber Security: GRC Part 1 - Governance | 2026 |
-| **Google / Coursera** | Introduction to AI | 2025 |
+My certifications and completed courses include cybersecurity, governance, AI, and technical skills.
 
-[Browse all certificate files](./assets/credentials/)
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-## 07 - Tech Stack
+### Google - Foundations of Cybersecurity
 
-<div align="center">
+**Provider:** Google / Coursera  
+**Year:** 2026
 
-<img src="https://skillicons.dev/icons?i=py,js,html,css,sql,linux,git,github,vscode,figma,wordpress,shopify&theme=dark" alt="Tech Stack"/>
+Practical foundation in cybersecurity concepts, security roles, risks, threats, and defensive practices.
 
-<br/><br/>
+<br/>
 
-`Web Security` · `Vulnerability Assessment` · `Python Tooling` · `SIEM Basics` · `Technical SEO`
-
-</div>
-
----
-
-## 08 - GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/ahtisham-sec">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahtisham-sec&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF7A00&icon_color=FF7A00&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats"/>
+<a href="./assets/credentials/Coursera%200S1N8Y9PUB43.pdf">
+View Certificate PDF →
 </a>
 
-<a href="https://github.com/ahtisham-sec">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtisham-sec&layout=compact&hide_border=true&title_color=FF7A00&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages"/>
+</td>
+
+<td width="50%" valign="top">
+
+### Macquarie University - Cyber Security: GRC Part 1
+
+**Focus:** Governance  
+**Provider:** Macquarie University / Coursera  
+**Year:** 2026
+
+Introduction to governance, risk, and compliance concepts within cybersecurity.
+
+<br/>
+
+<a href="./assets/credentials/Coursera%2043MPXQFOLJ4R.pdf">
+View Certificate PDF →
 </a>
 
-<br/><br/>
+</td>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ahtisham-sec&theme=dark&hide_border=true&background=0D1117&stroke=FF7A00&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+</tr>
 
-</div>
+<tr>
+
+<td width="50%" valign="top">
+
+### Google - Introduction to AI
+
+**Provider:** Google / Coursera  
+**Year:** 2025
+
+Introduction to artificial intelligence concepts and practical AI fundamentals.
+
+<br/>
+
+<a href="./assets/credentials/Coursera%20P8MUEUGRYC33.pdf">
+View Certificate PDF →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Additional Credentials
+
+My `assets/credentials/` directory also contains supporting certificate files and completed job simulation credentials.
+
+<br/>
+
+<a href="./assets/credentials/">
+Browse Credentials →
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 09 - GitHub Trophies
+# 07 - Technical Skills
 
-<div align="center">
+### Cybersecurity
 
-<img src="./assets/github-trophies.png" width="85%" alt="GitHub Trophies"/>
+`Web Security` `Vulnerability Assessment` `OWASP` `Phishing Detection` `Security Testing` `SIEM Basics` `Log Analysis`
 
-</div>
+### Programming
 
----
+`Python` `JavaScript` `SQL` `HTML` `CSS`
 
-## 10 - Contribution Activity
+### Systems & Tools
 
-<div align="center">
+`Linux` `Git` `GitHub` `VS Code`
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahtisham-sec&bg_color=0D1117&color=FF7A00&line=FF7A00&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
+### Web & Digital
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/ahtisham-sec/ahtisham-sec/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
-
-</div>
+`Technical SEO` `WordPress` `Shopify` `Website Auditing`
 
 ---
 
-## 11 - Connect
+# 08 - Learning Focus
+
+My current learning direction is centered around practical cybersecurity.
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### Web Security
+
+Understanding common web vulnerabilities, security testing, and secure application behavior.
+
+</td>
+
+<td width="33%" align="center">
+
+### Security Automation
+
+Building Python tools for detection, analysis, automation, and security workflows.
+
+</td>
+
+<td width="33%" align="center">
+
+### Linux & Security
+
+Improving Linux administration, permissions, processes, networking, logs, and security monitoring.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 09 - What I'm Working Toward
+
+I'm building my skills toward entry-level opportunities in:
+
+`Cybersecurity` · `Web Security` · `Security Testing` · `SOC / SIEM` · `Python Security Tooling`
+
+My approach is simple:
+
+**Learn → Build → Test → Document → Improve**
+
+---
+
+# 10 - Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/ahtisham-sec?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20Repositories-111111?style=for-the-badge&logo=github&logoColor=FF7A00" alt="Explore Repositories"/>
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=FF7A00" alt="Explore GitHub Repositories"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mirzaahtisham/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=FF7A00" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF7A00" alt="Connect on LinkedIn"/>
 </a>
 
-<br/><br/>
+<br/>
+<br/>
 
-**Open to full-time opportunities, freelance projects, and remote collaboration.**
+**Open to cybersecurity opportunities, internships, freelance projects, and technical collaboration.**
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-`SECURE` · `BUILD` · `OPTIMIZE`
+### SECURE · BUILD · LEARN
 
 <sub>Learning through practical work, one project at a time.</sub>
 
