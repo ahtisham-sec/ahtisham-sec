@@ -1,13 +1,13 @@
-<div align="center">
+div align="center">
 
 <img src="./assets/github-banner.png" alt="Muhammad Ahtisham Aslam GitHub Banner" width="100%" />
 
 <br/>
 <br/>
 
-# Muhammad Ahtisham Aslam
+Muhammad Ahtisham Aslam
 
-### Cybersecurity Student · Web Security · Python · Technical SEO
+🛡️ Cybersecurity Student · Web Security · Python · Technical SEO
 
 Building practical security tools, web-focused projects, and useful digital systems through hands-on learning.
 
@@ -23,11 +23,9 @@ Building practical security tools, web-focused projects, and useful digital syst
 
 </div>
 
----
+🛡️ 01 — About Me
 
-# 01 - About Me
-
-I'm a **BS Information Technology student** with a growing focus on **cybersecurity, web security, vulnerability assessment, Python security tooling, Linux, and technical SEO**.
+I'm a BS Information Technology student with a growing focus on cybersecurity, web security, vulnerability assessment, Python security tooling, Linux, and technical SEO.
 
 I learn primarily by building practical projects rather than only following theoretical material.
 
@@ -40,44 +38,44 @@ I'm especially interested in understanding how websites, applications, systems, 
 
 <td align="center" width="25%">
 
-### SECURITY
+🛡️ SECURITY
 
-Web Security  
-Vulnerability Assessment  
-OWASP Concepts  
+Web Security
+Vulnerability Assessment
+OWASP Concepts
 Security Testing
 
 </td>
 
 <td align="center" width="25%">
 
-### PYTHON
+🐍 PYTHON
 
-Security Tooling  
-Automation  
-Log Analysis  
+Security Tooling
+Automation
+Log Analysis
 Data Processing
 
 </td>
 
 <td align="center" width="25%">
 
-### LINUX & WEB
+🖥️ LINUX & WEB
 
-Linux  
-HTML · CSS · JavaScript  
-SQL  
+Linux
+HTML · CSS · JavaScript
+SQL
 Git & GitHub
 
 </td>
 
 <td align="center" width="25%">
 
-### SEO
+🔎 SEO
 
-Technical SEO  
-Website Auditing  
-Keyword Research  
+Technical SEO
+Website Auditing
+Keyword Research
 On-Page Optimization
 
 </td>
@@ -85,22 +83,20 @@ On-Page Optimization
 </tr>
 </table>
 
----
-
-# 02 - Currently Building
+🚀 02 — Currently Building
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### Mini-SIEM
+Mini-SIEM
 
 A lightweight SIEM-style project for collecting authentication logs, analyzing activity, and identifying suspicious events.
 
-**Focus**
+Focus
 
-`Python` `Linux` `Log Analysis`
+Python Linux Log Analysis
 
 <br/>
 
@@ -112,13 +108,13 @@ View Repository →
 
 <td width="33%" valign="top">
 
-### Phishing URL Detector
+Phishing URL Detector
 
 A Python-based project focused on analyzing URLs and identifying potentially suspicious links using security-oriented detection logic.
 
-**Focus**
+Focus
 
-`Python` `URL Analysis` `Detection`
+Python URL Analysis Detection
 
 <br/>
 
@@ -130,13 +126,13 @@ View Repository →
 
 <td width="33%" valign="top">
 
-### SEO Audit Engine
+🔎 SEO Audit Engine
 
 An automated technical SEO auditing tool designed to identify common website optimization issues.
 
-**Focus**
+Focus
 
-`Python` `SEO` `Automation`
+Python SEO Automation
 
 <br/>
 
@@ -149,20 +145,18 @@ View Repository →
 </tr>
 </table>
 
----
-
-# 03 - Selected Projects
+💻 03 — Selected Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## Web Security Scanner
+🌐 Web Security Scanner
 
 A practical security testing project focused on identifying common web security issues and supporting security-oriented website analysis.
 
-`Python`
+Python
 
 <br/>
 
@@ -174,11 +168,11 @@ Open Project →
 
 <td width="50%" valign="top">
 
-## SEO Content Optimizer
+✍️ SEO Content Optimizer
 
 A utility focused on analyzing on-page SEO signals and supporting content optimization workflows.
 
-`Python`
+Python
 
 <br/>
 
@@ -191,21 +185,19 @@ Open Project →
 </tr>
 </table>
 
----
+💼 04 — Experience
 
-# 04 - Experience
+🧑‍💻 Dev Zone Services
 
-## Dev Zone Services
+🔎 SEO Intern
 
-### SEO Intern
-
-**22 June 2026 - 27 August 2026**
+22 June 2026 - 27 August 2026
 
 During my internship, I worked on practical SEO tasks including:
 
-`Search Engine Optimization` · `Keyword Research` · `On-Page Optimization`
+Search Engine Optimization · Keyword Research · On-Page Optimization
 
-### Internship Completion
+Internship Completion
 
 <div align="center">
 
@@ -217,13 +209,11 @@ width="80%"
 
 <br/>
 
-**Internship Completion Letter**
+Internship Completion Letter
 
 </div>
 
----
-
-# 05 - Cybersecurity Job Simulations
+🧪 05 — Cybersecurity Job Simulations
 
 These simulations gave me practical exposure to different cybersecurity roles, security scenarios, analysis tasks, and incident-related workflows.
 
@@ -232,14 +222,15 @@ These simulations gave me practical exposure to different cybersecurity roles, s
 
 <td width="50%" valign="top">
 
-## Mastercard
+🛡️ Mastercard
 
-### Cybersecurity Job Simulation
+🛡️ Cybersecurity Job Simulation
 
 Practical tasks included:
 
-- Phishing email simulation
-- Phishing simulation result interpretation
+Phishing email simulation
+
+Phishing simulation result interpretation
 
 <br/>
 
@@ -257,14 +248,15 @@ width="95%"
 
 <td width="50%" valign="top">
 
-## AIG
+⚔️ AIG
 
-### Shields Up: Cybersecurity Job Simulation
+Shields Up: Cybersecurity Job Simulation
 
 Practical tasks included:
 
-- Responding to a zero-day vulnerability
-- Technical ransomware bypass task
+Responding to a zero-day vulnerability
+
+Technical ransomware bypass task
 
 <br/>
 
@@ -286,9 +278,9 @@ width="95%"
 
 <td width="50%" valign="top">
 
-## Deloitte
+🔐 Deloitte
 
-### Cyber Job Simulation
+Cyber Job Simulation
 
 Completed a practical cybersecurity job simulation covering real-world security-oriented tasks and scenarios.
 
@@ -308,16 +300,19 @@ width="95%"
 
 <td width="50%" valign="top">
 
-## Commonwealth Bank
+🏦 Commonwealth Bank
 
-### Introduction to Cybersecurity Job Simulation
+Introduction to Cybersecurity Job Simulation
 
 Practical exposure to:
 
-- Data analysis
-- Incident response
-- Security awareness
-- Penetration testing
+Data analysis
+
+Incident response
+
+Security awareness
+
+Penetration testing
 
 <br/>
 
@@ -339,16 +334,19 @@ width="95%"
 
 <td width="50%" valign="top">
 
-## Marketing Explorer
+📣 Marketing Explorer
 
-### Marketing Explorer Job Simulation
+📣 Marketing Explorer Job Simulation
 
 Practical tasks covering:
 
-- Creative Strategy
-- Performance Analysis
-- Customer & Product Marketing
-- Digital Marketing
+Creative Strategy
+
+Performance Analysis
+
+Customer & Product Marketing
+
+Digital Marketing
 
 <br/>
 
@@ -366,16 +364,19 @@ width="95%"
 
 <td width="50%" valign="top">
 
-## Branding & Design
+🎨 Branding & Design
 
-### Branding & Design Job Simulation
+🎨 Branding & Design Job Simulation
 
 Practical tasks covering:
 
-- Brand & Authenticity
-- Product Design & Craft
-- Digital Marketing
-- Community Building
+Brand & Authenticity
+
+Product Design & Craft
+
+Digital Marketing
+
+Community Building
 
 <br/>
 
@@ -394,9 +395,7 @@ width="95%"
 </tr>
 </table>
 
----
-
-# 06 - Certifications & Courses
+🎓 06 — Certifications & Courses
 
 My certifications and completed courses include cybersecurity, governance, AI, and technical skills.
 
@@ -405,10 +404,10 @@ My certifications and completed courses include cybersecurity, governance, AI, a
 
 <td width="50%" valign="top">
 
-### Google - Foundations of Cybersecurity
+🔐 Google — Foundations of Cybersecurity
 
-**Provider:** Google / Coursera  
-**Year:** 2026
+Provider: Google / Coursera
+Year: 2026
 
 Practical foundation in cybersecurity concepts, security roles, risks, threats, and defensive practices.
 
@@ -422,11 +421,11 @@ View Certificate PDF →
 
 <td width="50%" valign="top">
 
-### Macquarie University - Cyber Security: GRC Part 1
+🏛️ Macquarie University — Cyber Security: GRC Part 1
 
-**Focus:** Governance  
-**Provider:** Macquarie University / Coursera  
-**Year:** 2026
+Focus: Governance
+Provider: Macquarie University / Coursera
+Year: 2026
 
 Introduction to governance, risk, and compliance concepts within cybersecurity.
 
@@ -444,10 +443,10 @@ View Certificate PDF →
 
 <td width="50%" valign="top">
 
-### Google - Introduction to AI
+🤖 Google — Introduction to AI
 
-**Provider:** Google / Coursera  
-**Year:** 2025
+Provider: Google / Coursera
+Year: 2025
 
 Introduction to artificial intelligence concepts and practical AI fundamentals.
 
@@ -461,9 +460,9 @@ View Certificate PDF →
 
 <td width="50%" valign="top">
 
-### Additional Credentials
+📂 Additional Credentials
 
-My `assets/credentials/` directory also contains supporting certificate files and completed job simulation credentials.
+My assets/credentials/ directory also contains supporting certificate files and completed job simulation credentials.
 
 <br/>
 
@@ -476,29 +475,33 @@ Browse Credentials →
 </tr>
 </table>
 
----
+🧰 07 — Technical Skills
 
-# 07 - Technical Skills
+<div align="center">
 
-### Cybersecurity
+<img src="https://skillicons.dev/icons?i=py,js,html,css,sql,linux,git,github,vscode,figma,wordpress,shopify&theme=dark" alt="Python JavaScript HTML CSS SQL Linux Git GitHub VS Code Figma WordPress Shopify"/>
 
-`Web Security` `Vulnerability Assessment` `OWASP` `Phishing Detection` `Security Testing` `SIEM Basics` `Log Analysis`
+</div>
 
-### Programming
+<br/>
 
-`Python` `JavaScript` `SQL` `HTML` `CSS`
+🛡️ Cybersecurity
 
-### Systems & Tools
+Web Security Vulnerability Assessment OWASP Phishing Detection Security Testing SIEM Basics Log Analysis
 
-`Linux` `Git` `GitHub` `VS Code`
+🐍 Programming
 
-### Web & Digital
+Python JavaScript SQL HTML CSS
 
-`Technical SEO` `WordPress` `Shopify` `Website Auditing`
+⚙️ Systems & Tools
 
----
+Linux Git GitHub VS Code
 
-# 08 - Learning Focus
+🌐 Web & Digital
+
+Technical SEO WordPress Shopify Website Auditing
+
+🎯 08 — Learning Focus
 
 My current learning direction is centered around practical cybersecurity.
 
@@ -507,7 +510,7 @@ My current learning direction is centered around practical cybersecurity.
 
 <td width="33%" align="center">
 
-### Web Security
+🔎 Web Security
 
 Understanding common web vulnerabilities, security testing, and secure application behavior.
 
@@ -515,7 +518,7 @@ Understanding common web vulnerabilities, security testing, and secure applicati
 
 <td width="33%" align="center">
 
-### Security Automation
+⚙️ Security Automation
 
 Building Python tools for detection, analysis, automation, and security workflows.
 
@@ -523,7 +526,7 @@ Building Python tools for detection, analysis, automation, and security workflow
 
 <td width="33%" align="center">
 
-### Linux & Security
+🐧 Linux & Security
 
 Improving Linux administration, permissions, processes, networking, logs, and security monitoring.
 
@@ -532,21 +535,63 @@ Improving Linux administration, permissions, processes, networking, logs, and se
 </tr>
 </table>
 
----
-
-# 09 - What I'm Working Toward
+📌 09 — What I'm Working Toward
 
 I'm building my skills toward entry-level opportunities in:
 
-`Cybersecurity` · `Web Security` · `Security Testing` · `SOC / SIEM` · `Python Security Tooling`
+Cybersecurity · Web Security · Security Testing · SOC / SIEM · Python Security Tooling
 
 My approach is simple:
 
-**Learn → Build → Test → Document → Improve**
+Learn → Build → Test → Document → Improve
 
----
+📈 GitHub Analytics
 
-# 10 - Connect With Me
+<div align="center">
+
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=ahtisham-sec&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF7A00&icon_color=FF7A00&text_color=C9D1D9&bg_color=0D1117"
+alt="GitHub Stats"
+/>
+
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtisham-sec&layout=compact&hide_border=true&title_color=FF7A00&text_color=C9D1D9&bg_color=0D1117"
+alt="Top Languages"
+/>
+
+<br/><br/>
+
+<img
+width="70%"
+src="https://streak-stats.demolab.com?user=ahtisham-sec&theme=dark&hide_border=true&background=0D1117&stroke=FF7A00&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=C9D1D9&dates=8B949E"
+alt="GitHub Streak"
+/>
+
+</div>
+
+📊 Contribution Activity
+
+<div align="center">
+
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=ahtisham-sec&bg_color=0D1117&color=FF7A00&line=FF7A00&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
+alt="Contribution Activity"
+/>
+
+<br/><br/>
+
+<img
+src="./assets/github-contribution-grid-snake.svg"
+width="95%"
+alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+🤝 10 — Connect With Me
 
 <div align="center">
 
@@ -561,15 +606,13 @@ My approach is simple:
 <br/>
 <br/>
 
-**Open to cybersecurity opportunities, internships, freelance projects, and technical collaboration.**
+Open to cybersecurity opportunities, internships, freelance projects, and technical collaboration.
 
 </div>
 
----
-
 <div align="center">
 
-### SECURE · BUILD · LEARN
+🛡️ SECURE · BUILD · LEARN
 
 <sub>Learning through practical work, one project at a time.</sub>
 
