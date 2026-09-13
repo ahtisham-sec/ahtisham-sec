@@ -31,36 +31,37 @@ Cybersecurity • Web Security • SEO & Growth • Software Development
 
 I'm a BS Information Technology student focused on web security, vulnerability assessment, Python security tooling, SEO, and growth-focused web development.
 
-I enjoy turning real-world problems into practical tools — from detecting suspicious URLs and analyzing authentication logs to automating technical SEO audits.
+I enjoy turning real-world problems into practical tools, from detecting suspicious URLs and analyzing authentication logs to automating technical SEO audits.
 
-name: Muhammad Ahtisham Aslam
-focus:
+Name: Muhammad Ahtisham Aslam
+
+Focus:
   - Web Security
   - Vulnerability Assessment
   - Python Security Tooling
   - SEO & Growth
   - Web Development
 
-education:
-  degree: BS Information Technology
-  university: University of Sahiwal
+Education:
+  Degree: BS Information Technology
+  University: University of Sahiwal
 
-training:
+Training:
   - Genease Academy
   - Python Security Tooling
   - SIEM Fundamentals
 
-certifications:
-  - Google — SEO & Digital Marketing
-  - Google — Google Ads
-  - IBM — Python for Data Science
+Certifications:
+  - Google: SEO & Digital Marketing
+  - Google: Google Ads
+  - IBM: Python for Data Science
 
-currently_building:
+Currently_Building:
   - Mini-SIEM
   - Phishing URL Detector
   - SEO Audit Engine
 
-open_to:
+Open_To:
   - Full-time opportunities
   - Freelance projects
   - Remote collaboration
@@ -216,11 +217,10 @@ More experiments, security utilities, automation scripts, and development work a
 
 </div>
 
-
-
 📊 Contribution Activity
 
 <br/><br/>
+
 <img src="https://raw.githubusercontent.com/ahtisham-sec/ahtisham-sec/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
 
 </div>
