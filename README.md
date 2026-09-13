@@ -545,21 +545,7 @@ My approach is simple:
 
 Learn → Build → Test → Document → Improve
 
-📈 GitHub Analytics
 
-<div align="center">
-
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=ahtisham-sec&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF7A00&icon_color=FF7A00&text_color=C9D1D9&bg_color=0D1117"
-alt="GitHub Stats"
-/>
-
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtisham-sec&layout=compact&hide_border=true&title_color=FF7A00&text_color=C9D1D9&bg_color=0D1117"
-alt="Top Languages"
-/>
 
 <br/><br/>
 
@@ -575,16 +561,9 @@ alt="GitHub Streak"
 
 <div align="center">
 
-<img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=ahtisham-sec&bg_color=0D1117&color=FF7A00&line=FF7A00&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
-alt="Contribution Activity"
-/>
-
-<br/><br/>
 
 <img
-src="./assets/github-contribution-grid-snake.svg"
+src="./github/workflows/snake.yml"
 width="95%"
 alt="GitHub Contribution Snake"
 />
