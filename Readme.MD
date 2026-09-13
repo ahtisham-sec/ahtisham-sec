@@ -210,9 +210,6 @@ More experiments, security utilities, automation scripts, and development work a
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahtisham-sec&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF7A00&icon_color=FF7A00&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtisham-sec&layout=compact&hide_border=true&langs_count=8&title_color=FF7A00&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages"/>
-
 <br/><br/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahtisham-sec&hide_border=true&background=0D1117&stroke=FF7A00&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
@@ -224,7 +221,6 @@ More experiments, security utilities, automation scripts, and development work a
 📊 Contribution Activity
 
 <br/><br/>
-
 <img src="https://raw.githubusercontent.com/ahtisham-sec/ahtisham-sec/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
 
 </div>
