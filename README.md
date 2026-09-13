@@ -548,7 +548,7 @@ Learn → Build → Test → Document → Improve
 
 
 <br/><br/>
-
+ <div align="center">
 <img
 width="70%"
 src="https://streak-stats.demolab.com?user=ahtisham-sec&theme=dark&hide_border=true&background=0D1117&stroke=FF7A00&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=C9D1D9&dates=8B949E"
@@ -557,17 +557,11 @@ alt="GitHub Streak"
 
 </div>
 
-📊 Contribution Activity
-
-<div align="center">
-
-
 <img
-src="./workflows/snake.yml"
-width="95%"
-alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/ahtisham-sec/ahtisham-sec/output/github-contribution-grid-snake.svg"
+  width="95%"
+  alt="Contribution Snake"
 />
-
 </div>
 
 🤝 10 — Connect With Me
