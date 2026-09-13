@@ -1,478 +1,289 @@
-<!-- ===================== HEADER BANNER ===================== -->
+<!-- ========================================================= -->
+
+<!--                     HEADER / HERO                           -->
+
+<!-- ========================================================= -->
 
 <div align="center">
-
-  <img src="./assets/github-banner.png" alt="Muhammad Ahtisham GitHub Banner" width="100%" />
-
+  <img src="./assets/github-banner.png" alt="Muhammad Ahtisham Aslam GitHub Banner" width="100%" />
 </div>
 
 <br/>
 
-<!-- ===================== INTRO ===================== -->
-
 <div align="center">
 
-# Muhammad Ahtisham Aslam
+Muhammad Ahtisham Aslam
 
-### Cybersecurity • Web Security • Python Security Tooling • SEO & Development
+Cybersecurity Student · Web Security · Python · SEO
 
 <p>
   <a href="https://github.com/ahtisham-sec">
-    <img src="https://img.shields.io/badge/GitHub-ahtisham--sec-111111?style=for-the-badge&logo=github&logoColor=FF7A00" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-ahtisham--sec-0D1117?style=for-the-badge&logo=github&logoColor=FF7A00" alt="GitHub"/>
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=ahtisham-sec&style=for-the-badge&color=FF7A00&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
-
-<p>
-  <b>Building practical security tools, secure web systems, and data-driven digital experiences.</b>
+  <a href="https://www.linkedin.com/in/mirzaahtisham/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF7A00" alt="LinkedIn"/>
+  </a>
 </p>
 
 </div>
 
-<br/>
+01 — About
 
-<!-- ===================== ABOUT ME ===================== -->
+I'm a BS Information Technology student focused on web security, vulnerability assessment, Python security tooling, and technical SEO.
 
-## 👋 About Me
+I like learning by building: small security tools, practical automation, log analysis utilities, phishing detection workflows, and web-focused projects.
 
-I'm a **BS Information Technology student** focused on **Web Security, Vulnerability Assessment, Python Security Tooling, and Technical SEO**.
-
-I enjoy building practical tools that solve real-world problems. My current work focuses on security automation, authentication log analysis, phishing detection, web security testing, and technical SEO.
-
-I'm continuously improving my Linux, Python, networking, web security, and software development skills through hands-on projects and practical labs.
-
-<br/>
-
-<!-- ===================== CORE FOCUS ===================== -->
+<div align="center">
 
 <table>
 <tr>
+<td align="center" width="25%">
 
-<td width="50%" valign="top">
+SECURITY
 
-### 🔐 Cybersecurity
-
-<img src="https://skillicons.dev/icons?i=linux,py" />
-
-**Web Security**
-
-Web vulnerability assessment, reconnaissance concepts, OWASP-oriented testing, and security-focused development.
-
-**Security Automation**
-
-Building lightweight Python tools for log analysis, suspicious activity detection, URL analysis, and repetitive security tasks.
+Web Security<br/>
+Vulnerability Assessment<br/>
+OWASP Concepts
 
 </td>
+<td align="center" width="25%">
 
-<td width="50%" valign="top">
+PYTHON
 
-### 💻 Development & Growth
-
-<img src="https://skillicons.dev/icons?i=js,html,css,sql,git" />
-
-**Web Development**
-
-Building practical and responsive web applications using modern web technologies.
-
-**Technical SEO**
-
-Technical audits, on-page optimization, content analysis, website performance, and data-driven growth.
+Security Tooling<br/>
+Automation<br/>
+Log Analysis
 
 </td>
+<td align="center" width="25%">
 
+WEB
+
+HTML · CSS · JS<br/>
+SQL · Git<br/>
+Responsive Development
+
+</td>
+<td align="center" width="25%">
+
+SEO
+
+Technical Audits<br/>
+On-page Analysis<br/>
+Optimization
+
+</td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-<!-- ===================== CURRENTLY BUILDING ===================== -->
-
-## 🚀 Currently Building
+02 — Currently Building
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### 🛡️ Mini-SIEM
+01 · Mini-SIEM
 
 A lightweight SIEM-style project for authentication log analysis and suspicious activity detection.
 
-**Stack:** Python • Linux
+Stack
+Python Linux
+
+<a href="https://github.com/ahtisham-sec/mini-siem-auth-log-analyzer">View repository →</a>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🎣 Phishing URL Detector
+02 · Phishing URL Detector
 
-A security-focused tool that analyzes URLs using detection logic and heuristics to identify potentially suspicious links.
+A security-focused URL analyzer using heuristics and detection logic to identify potentially suspicious links.
 
-**Stack:** Python
+Stack
+Python
+
+<a href="https://github.com/ahtisham-sec/phishing-url-threat-detector">View repository →</a>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🔍 SEO Audit Engine
+03 · SEO Audit Engine
 
-An automated technical SEO auditing tool designed to identify common website optimization issues.
+An automated technical SEO audit tool designed to surface common website optimization issues.
 
-**Stack:** Python
+Stack
+Python
+
+<a href="https://github.com/ahtisham-sec/seo-audit-engine">View repository →</a>
 
 </td>
 
 </tr>
 </table>
 
-<br/>
-
-<!-- ===================== WHAT I WORK ON ===================== -->
-
-## 🧠 What I Work On
+03 — Selected Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🔎 Security Research
+Web Security Scanner
 
-- Web Security Testing
-- Vulnerability Assessment
-- Reconnaissance
-- OWASP Concepts
-- Authentication Analysis
-- Phishing Detection
-- Security Automation
+A practical scanner focused on common web security issues and security-oriented testing.
+
+Python
+
+<a href="https://github.com/ahtisham-sec/web-security-scanner">Open project →</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ Practical Development
+SEO Content Optimizer
 
-- Python Security Tools
-- Log Analysis
-- Web Applications
-- Technical SEO
-- Website Auditing
-- Automation
-- Git & GitHub Workflows
+A small utility focused on on-page SEO signals and content improvement workflows.
+
+Python
+
+<a href="https://github.com/ahtisham-sec/Seo-content-optimizer-">Open project →</a>
 
 </td>
 
 </tr>
 </table>
 
+04 — Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,html,css,sql,linux,git,github,vscode,figma,wordpress,shopify&theme=dark" alt="Tech Stack"/>
+
+</div>
+
 <br/>
 
-<!-- ===================== EDUCATION ===================== -->
+<div align="center">
 
-## 🎓 Education & Training
+Web Security · Vulnerability Assessment · Python Tooling · SIEM Basics · Technical SEO
 
-**BS Information Technology**  
+</div>
+
+05 — Education & Training
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+Education
+
+BS Information Technology
 University of Sahiwal
 
-**Training & Learning**
+</td>
 
-- Genease Academy
-- Python Security Tooling
-- SIEM Fundamentals
-- Linux & Security Labs
-- Web Security Practice
+<td width="50%" valign="top">
 
-<br/>
+Practical Training
 
-<!-- ===================== CERTIFICATIONS ===================== -->
+Genease Academy
 
-## 📜 Certifications
+Python security tooling, SIEM fundamentals, Linux/security labs, and hands-on web security practice.
 
-<table>
-<tr>
+</td>
 
-<td width="33%" align="center">
+</tr>
+</table>
 
-### Google
+06 — Certifications
+
+<div align="center">
+
+Provider
+
+Area
+
+Google
 
 SEO & Digital Marketing
 
-</td>
-
-<td width="33%" align="center">
-
-### Google
+Google
 
 Google Ads
 
-</td>
-
-<td width="33%" align="center">
-
-### IBM
+IBM
 
 Python for Data Science
 
-</td>
+</div>
 
-</tr>
-</table>
-
-<br/>
-
-<!-- ===================== TECH STACK ===================== -->
-
-## 🧰 Tech Stack
+07 — GitHub Activity
 
 <div align="center">
 
-### Languages & Development
+<a href="https://github.com/ahtisham-sec">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahtisham-sec&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF7A00&icon_color=FF7A00&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=py,js,html,css,sql" alt="Languages and Development"/>
-
-<br/><br/>
-
-### Security, Systems & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" alt="Security Systems and Tools"/>
+<a href="https://github.com/ahtisham-sec">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtisham-sec&layout=compact&hide_border=true&title_color=FF7A00&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-### Design, CMS & Platforms
-
-<img src="https://skillicons.dev/icons?i=figma,wordpress,shopify" alt="Design CMS and Platforms"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Web%20Security-0D1117?style=for-the-badge&logo=hackthebox&logoColor=FF7A00" alt="Web Security"/>
-
-<img src="https://img.shields.io/badge/SIEM-0D1117?style=for-the-badge&logo=splunk&logoColor=FF7A00" alt="SIEM"/>
-
-<img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=FF7A00" alt="OWASP"/>
-
-<img src="https://img.shields.io/badge/SEO-0D1117?style=for-the-badge&logo=google&logoColor=FF7A00" alt="SEO"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=ahtisham-sec&theme=dark&hide_border=true&background=0D1117&stroke=FF7A00&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 
 </div>
 
-<br/>
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔍 SEO Audit Engine
-
-Automated technical SEO auditing and reporting tool designed to identify common website optimization issues.
-
-**Stack:** Python
-
-**Focus:** Technical SEO • Auditing • Automation
-
-<br/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/View%20Repository-111111?style=for-the-badge&logo=github&logoColor=FF7A00" alt="View Repository"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛡️ Mini-SIEM Auth Log Analyzer
-
-Lightweight SIEM-style analyzer for authentication logs, suspicious activity detection, and security-focused log analysis.
-
-**Stack:** Python • Linux
-
-**Focus:** Log Analysis • Detection • Security
-
-<br/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/View%20Repository-111111?style=for-the-badge&logo=github&logoColor=FF7A00" alt="View Repository"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎣 Phishing URL Threat Detector
-
-Analyzes URLs using security-focused heuristics and detection logic to identify potentially malicious or suspicious links.
-
-**Stack:** Python
-
-**Focus:** Phishing Detection • URL Analysis
-
-<br/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/View%20Repository-111111?style=for-the-badge&logo=github&logoColor=FF7A00" alt="View Repository"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Web Security Scanner
-
-A practical security scanner focused on identifying common web security issues and improving security awareness.
-
-**Stack:** Python
-
-**Focus:** Web Security • Vulnerability Testing
-
-<br/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/View%20Repository-111111?style=for-the-badge&logo=github&logoColor=FF7A00" alt="View Repository"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ✍️ SEO Content Optimizer
-
-A content optimization utility focused on improving on-page SEO signals and content quality.
-
-**Stack:** Python
-
-**Focus:** SEO • Content Analysis • Automation
-
-<br/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/View%20Repository-111111?style=for-the-badge&logo=github&logoColor=FF7A00" alt="View Repository"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ More Projects
-
-Security utilities, automation scripts, development experiments, and other practical projects are available across my repositories.
-
-<br/><br/>
-
-<a href="https://github.com/ahtisham-sec?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20Repositories-111111?style=for-the-badge&logo=github&logoColor=FF7A00" alt="Explore Repositories"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-🛡️ **Web Security**  
-████████████████████ Building
-
-🐍 **Python Security Tooling**  
-███████████████████░ Building
-
-🧪 **Mini-SIEM**  
-██████████████████░░ Improving
-
-</td>
-
-<td width="50%" valign="top">
-
-🎣 **Phishing Detection**  
-█████████████████░░░ Improving
-
-🔎 **Technical SEO**  
-████████████████░░░░ Growing
-
-💻 **Web Development**  
-█████████████████░░░ Building
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
-## 📈 GitHub Analytics
+08 — GitHub Trophies
 
 <div align="center">
 
-<br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahtisham-sec&hide_border=true&background=0D1117&stroke=FF7A00&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-
-<br/><br/>
+<img src="./assets/github-trophies.png" width="85%" alt="GitHub Trophies"/>
 
 </div>
 
-## 📊 Contribution Activity
+09 — Contribution Activity
 
 <div align="center">
 
-<br/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahtisham-sec&bg_color=0D1117&color=FF7A00&line=FF7A00&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
+
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/ahtisham-sec/ahtisham-sec/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
 
 </div>
 
-<br/>
-
-<!-- ===================== CONNECT ===================== -->
-
-## 🤝 Let's Connect
+10 — Connect
 
 <div align="center">
 
 <a href="https://github.com/ahtisham-sec">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FF7A00" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-View%20Repositories-111111?style=for-the-badge&logo=github&logoColor=FF7A00" alt="GitHub Repositories"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/mirzaahtisham/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=FF7A00" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-111111?style=for-the-badge&logo=linkedin&logoColor=FF7A00" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<b>Open to full-time opportunities, freelance projects, and remote collaboration.</b>
+Open to full-time opportunities, freelance projects, and remote collaboration.
 
 </div>
 
 <br/>
 
-<!-- ===================== FOOTER ===================== -->
-
 <div align="center">
 
-🛡️ **Secure • Build • Optimize**
+SECURE · BUILD · OPTIMIZE
 
-<sub>Learning security, building practical tools, and improving every project one step at a time.</sub>
+<sub>Learning through practical work, one project at a time.</sub>
 
 </div>
