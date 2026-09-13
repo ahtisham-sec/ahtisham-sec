@@ -1,96 +1,95 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahtisham Aslam</h1>
-<h3 align="center">Cybersecurity Student | Web Vulnerability Assessment | SEO & Growth</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+SIEM+%7C+Threat+Detection;SEO+%2B+Digital+Marketing+Specialist;BS+IT+%40+University+of+Sahiwal;Building+security+tools+with+Python" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mirzaahtisham" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://muhammadahtishamaslamportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 📖 About Me
 
----
+```yaml
+name: "Muhammad Ahtisham Aslam"
+role: ["Cybersecurity Student", "Web Vulnerability Assessment", "SEO & Growth"]
+education: "BS Information Technology @ University of Sahiwal (CGPA 3.2)"
+training: "Genease Academy — Python security tooling, SIEM basics"
+certifications:
+  - "Google: SEO, Digital Marketing, Google Ads"
+  - "IBM: Python for Data Science"
+currently_building: "Mini-SIEM log analyzer, phishing URL detector, SEO audit engine"
+open_to: ["Full-time roles", "Freelance", "Remote collaboration"]
+```
 
-### 🧠 About Me
+<br/>
 
-- 🎓 BS Information Technology, University of Sahiwal (CGPA 3.2)
-- 🔐 Cybersecurity training @ Genease Academy — web vulnerability assessment, Python security tooling, SIEM basics
-- 📈 Google Certified: SEO, Digital Marketing, Google Ads
-- 🐍 IBM Certified: Python for Data Science
-- 💼 Open to full-time roles, freelance projects & remote collaborations worldwide
-- 🌱 Currently building: mini-SIEM log analyzer, phishing URL threat detector, SEO audit engine
+## 🧰 Tech Stack
 
----
+<div align="center">
 
-### 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=py,js,html,css,sql,git,github,linux,vscode,figma,wordpress,shopify&theme=dark" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,sql,git,github,linux,vscode,figma,wordpress,shopify" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Web%20Security-black?style=flat-square&logo=hackthebox&logoColor=9FEF00" />
-  <img src="https://img.shields.io/badge/-SIEM-black?style=flat-square&logo=splunk&logoColor=orange" />
-  <img src="https://img.shields.io/badge/-OWASP-black?style=flat-square&logo=owasp&logoColor=red" />
-  <img src="https://img.shields.io/badge/-SEO-black?style=flat-square&logo=googlesearchconsole&logoColor=4285F4" />
-</p>
+![Security](https://img.shields.io/badge/-Web%20Security-141321?style=flat-square&logo=hackthebox&logoColor=FF7A00)
+![SIEM](https://img.shields.io/badge/-SIEM-141321?style=flat-square&logo=splunk&logoColor=FF7A00)
+![OWASP](https://img.shields.io/badge/-OWASP-141321?style=flat-square&logo=owasp&logoColor=FF7A00)
+![SEO](https://img.shields.io/badge/-SEO-141321?style=flat-square&logo=googlesearchconsole&logoColor=FF7A00)
 
----
+</div>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahtisham-sec&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtisham-sec&layout=compact&theme=radical&hide_border=true" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahtisham-sec&theme=radical&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahtisham-sec&theme=react-dark&hide_border=true" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahtisham-sec&show_icons=true&hide_border=true&count_private=true&title_color=FF7A00&icon_color=FF7A00&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtisham-sec&layout=compact&hide_border=true&title_color=FF7A00&text_color=c9d1d9&bg_color=0d1117" />
 
----
+<br/>
 
-### 🏆 Trophies
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahtisham-sec&hide_border=true&background=0D1117&stroke=FF7A00&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahtisham-sec&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+</div>
 
----
+<br/>
 
-### 🐍 Contribution Snake
+## 🏆 Trophies
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahtisham-sec/ahtisham-sec/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
 
-> ⚠️ This snake image only appears after you set up the GitHub Action below (it generates the `output` branch automatically).
+<img src="https://github-profile-trophy.vercel.app/?username=ahtisham-sec&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
 
----
+</div>
 
-### 📌 Featured Projects
+<br/>
 
-| Project | Description | Tech |
-|---|---|---|
-| [seo-audit-engine](https://github.com/ahtisham-sec/seo-audit-engine) | Automated SEO auditing tool | Python |
-| [mini-siem-auth-log-analyzer](https://github.com/ahtisham-sec/mini-siem-auth-log-analyzer) | Mini SIEM for auth log analysis | Python |
-| [phishing-url-threat-detector](https://github.com/ahtisham-sec/phishing-url-threat-detector) | Detects phishing URLs using heuristics/ML | Python |
-| [web-security-scanner](https://github.com/ahtisham-sec/web-security-scanner) | Scans websites for common vulnerabilities | Python |
+## 📈 Contribution Graph
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahtisham-sec&style=flat-square&color=blueviolet" alt="profile views" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahtisham-sec&theme=react-dark&bg_color=0d1117&color=FF7A00&line=FF7A00&point=ffffff&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/ahtisham-sec/ahtisham-sec/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| 🔍 **SEO Audit Engine** | Automated SEO auditing & reporting tool | Python | [Repo](https://github.com/ahtisham-sec/seo-audit-engine) |
+| 🛡️ **Mini-SIEM Auth Log Analyzer** | Lightweight SIEM for authentication log analysis | Python | [Repo](https://github.com/ahtisham-sec/mini-siem-auth-log-analyzer) |
+| 🎣 **Phishing URL Threat Detector** | Detects phishing URLs via heuristics/ML | Python | [Repo](https://github.com/ahtisham-sec/phishing-url-threat-detector) |
+| 🌐 **Web Security Scanner** | Scans websites for common vulnerabilities | Python | [Repo](https://github.com/ahtisham-sec/web-security-scanner) |
+| ✍️ **SEO Content Optimizer** | Content optimization tool for on-page SEO | Python | [Repo](https://github.com/ahtisham-sec/Seo-content-optimizer-) |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+_"Securing systems by day, optimizing rankings by night."_ 🛡️📈
+
+</div>
